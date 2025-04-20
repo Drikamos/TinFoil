@@ -1,1 +1,10 @@
-{"success":"Drikamo Shop","files":["linki.txt"]}
+{
+  "success": "Drikamo Shop",
+  "files": [
+    "https://abra--5fd3af94.api.brilliant-bittern.buzz/65a8741c1da7bb89ad45d596c0ea1fffb7f79ff9/Minecraft%20Dungeons%20%5BNSZ%5D/Minecraft%20Dungeons%20%5B01006C100EC08800%5D%5Bv1769472%5D%20%284.21%20GB%29.nsz?api-key=...",
+    "https://abra--3ed45479.api.brilliant-bittern.buzz/c73e628049bbc9655ce446b7156e15d0230b389e/Super%20Mario%20Odyssey%20%5BNSP%5D/Super%20Mario%20Odyssey%20%5B0100000000010000%5D%5Bv0%5D.nsp?api-key=...",
+    "https://abra--5fa8a052.api.brilliant-bittern.buzz/25e6940d69fd0e1dd53af614ad70fdf80e221035/Captain%20Toad%20Treasure%20Tracker%20%5BNSP%5D/Captain%20Toad%20Treasure%20Tracker%20%5B01009BF0072D4000%5D%5Bv0%5D.nsp?api-key=...",
+    "https://abra--5fa8a052.api.brilliant-bittern.buzz/25e6940d69fd0e1dd53af614ad70fdf80e221035/Captain%20Toad%20Treasure%20Tracker%20%5BNSP%5D/Captain%20Toad%20Treasure%20Tracker%20%5B01009BF0072D4800%5D%5Bv196608%5D.nsp?api-key=...",
+    "https://abra--5fa8a052.api.brilliant-bittern.buzz/25e6940d69fd0e1dd53af614ad70fdf80e221035/Captain%20Toad%20Treasure%20Tracker%20%5BNSP%5D/Captain%20Toad%20Treasure%20Tracker%20%5BDLC%20Captain%20Toad%20Treasure%20Tracker%20-%20Special%20Episode%5D%20%5B01009BF0072D5002%5D%5Bv0%5D.nsp?api-key=..."
+  ]
+}
