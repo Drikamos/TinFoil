@@ -5,7 +5,7 @@
       "name": "My Custom Shop",
       "url": "https://raw.githubusercontent.com/Drikamos/TinFoil/main/tinfoil.json",
       "type": "static",
-      "category": "new",  // This will ensure it shows up under 'New Games'
+      "category": "new",
       "icon": "https://yourserver.com/icons/shop_icon.png",
       "files": [
         {
