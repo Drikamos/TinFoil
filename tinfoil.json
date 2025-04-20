@@ -1,1 +1,19 @@
-{"success":"CUSTOM FILIP","files":[]}
+{
+  "version": "1.0",
+  "shops": [
+    {
+      "name": "My Direct Link Shop",
+      "type": "static",
+      "files": [
+        {
+          "name": "Super Mario Odyssey",
+          "url": "https://yourhost.com/games/super_mario_odyssey.nsp"
+        },
+        {
+          "name": "The Legend of Zelda: TOTK",
+          "url": "https://yourhost.com/games/zelda_totk.nsz"
+        }
+      ]
+    }
+  ]
+}
