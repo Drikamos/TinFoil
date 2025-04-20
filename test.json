@@ -1,5 +1,5 @@
 {
-  "success": "Drikamos TINFOIL ESHOP",
+  "success": "Drikamos TINFOIL ESHOP vv11",
   "games": [
     {
       "title": "Minecraft Dungeons",
@@ -12,7 +12,7 @@
     {
       "title": "Super Mario Odyssey",
       "title_id": "0100000000010000",
-      "version": "v4",
+      "version": "v0",
       "files": [
         "https://abra--3ed45479.api.brilliant-bittern.buzz/c73e628049bbc9655ce446b7156e15d0230b389e/Super%20Mario%20Odyssey%20%5BNSP%5D/Super%20Mario%20Odyssey%20%5B0100000000010000%5D%5Bv0%5D.nsp?api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1&download=true&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDUyMzU3MTEsInJhdGUiOiI1TSIsInJvbGUiOiJmcmVlIiwic2Vzc2lvbklEIjoiTVRjME5URTBORE16Tlh4T2QzZEJUa1ZPUzFJeGFFMVJiR3hZVWtaTmVWSkZOVTFTYTJST1ZFWkJNMUpzU2tsT01FNVpUa1pLVkZZeFdUSlNNVVV3VjBabmVrNXJPSHBVVlRGYVRrWndVMVZGYkU1VVZVVTlmRmNGeEF0OTFqaXBTS0ppWDBhLVViQWJQSThwMktpR3pVWHZnZS1PSGVPYyIsImRvbWFpbiI6IndlYnRvci5pbyIsImFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVtb3RlQWRkcmVzcyI6IjE3Mi42OC4xNTkuMTQzIn0.facT4BAdyQPbeY3yKTXv22GzzFkW9EOSXVcKYyjcnSQ"
       ]
